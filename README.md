@@ -1,10 +1,5 @@
 # JavaScript-Algorithms-and-Data-Structures
 
-This Repo will not contain any code. 
-This for accountability purpose.
+This Repo will contain my JavaScript learning Journey 
+Here I will add every code and every article Or Youtube Video I will watch to Learn JavaScript 
 
-### Days and Dones:
-<ul> 
-    <li><strong>Day 1 :</strong> 1-8 out of 113</li>
-    <li><strong>Day 1 :</strong> Today didn't do JS but did a pull request.</li>
-</ul>
