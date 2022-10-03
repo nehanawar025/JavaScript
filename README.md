@@ -1,4 +1,4 @@
-# JavaScript-Algorithms-and-Data-Structures
+# JavaScript
 
 This Repo will contain my JavaScript learning Journey <br> 
 
